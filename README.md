@@ -1,23 +1,52 @@
-# 👋 Hi, I'm Santiago Nieto
+# 👋 Hi, I'm [Tu Nombre]
 
-📊 Data Analyst | Pricing & Business Analytics | Data Science
+📊 **Business Analyst & Data Enthusiast**  
+Transforming data into insights to support better business decisions.
+
+---
 
 ## 🚀 About Me
-Data Analyst with experience in pricing, operational metrics, and business analytics.
-Strong analytical mindset with a focus on data-driven decision making.
+I’m a data-driven professional with experience in pricing analytics, business intelligence, and dashboarding.  
+I enjoy solving real-world problems using SQL, Python, and visualization tools.
+
+---
 
 ## 🛠 Tech Stack
-- Python | SQL
-- Pandas | NumPy | Scikit-learn
-- Power BI | Matplotlib
-- PostgreSQL
-- Git | GitHub | Excel
+
+**Languages & Tools:**  
+Python | SQL | Power BI | Excel | Google Sheets  
+
+**Data & Libraries:**  
+Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
+
+**Databases:**  
+PostgreSQL | MySQL  
+
+---
 
 ## 📂 Featured Projects
-- 📈 Pricing & Sales Analysis  
-- 📊 Business Dashboard in Power BI  
-- 🤖 Machine Learning for Business Insights  
+
+Here are a few highlights from my GitHub:
+
+🔹 **Pricing & Sales Analysis** – Data analysis and insights to optimize pricing decisions  
+🔹 **Power BI Dashboards** – Interactive dashboards to track KPIs and performance metrics  
+🔹 **SQL Data Projects** – Database design and querying for business use cases  
+
+> Check them out below in the *Pinned Repositories* section! 🚀
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
+---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/tu-linkedin
 
+🔗 **LinkedIn:** https://www.linkedin.com/in/nietosantiago 
+📬 **Email:** santiagonnieto@gmail.com
+
+---
+
+Thanks for stopping by! 👋
