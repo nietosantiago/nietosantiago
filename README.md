@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Santiago Nieto
 
-<!--
-**nietosantiago/nietosantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Pricing & Business Analytics | Data Science
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Data Analyst with experience in pricing, operational metrics, and business analytics.
+Strong analytical mindset with a focus on data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Python | SQL
+- Pandas | NumPy | Scikit-learn
+- Power BI | Matplotlib
+- PostgreSQL
+- Git | GitHub | Excel
+
+## 📂 Featured Projects
+- 📈 Pricing & Sales Analysis  
+- 📊 Business Dashboard in Power BI  
+- 🤖 Machine Learning for Business Insights  
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/tu-linkedin
+
