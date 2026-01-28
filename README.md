@@ -6,8 +6,8 @@ Transforming data into insights to support better business decisions.
 ---
 
 ## 🚀 About Me
-I’m a data-driven professional with experience in pricing analytics, business intelligence, and data modeling.  
-I enjoy solving real-world business problems using SQL, Python, and data visualization to support decision-making.
+I’m a data-driven professional with experience in pricing analytics, business intelligence, data modeling, and analytics projects.  
+I enjoy solving real-world business problems using **SQL, Python, Machine Learning, and data visualization** to support decision-making.
 
 ---
 
@@ -23,7 +23,7 @@ Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 PostgreSQL | MySQL  
 
 **Data Concepts:**  
-Data Warehouse | Dimensional Modeling | ETL | KPIs | Business Metrics  
+Data Warehouse | Dimensional Modeling | ETL | KPIs | Business Metrics | Machine Learning  
 
 ---
 
@@ -45,17 +45,22 @@ Database design, querying, and analytical use cases using SQL.
 
 🔹 **Information Visualization Portfolio** ⭐  
 Data visualizations created with different tools to communicate insights clearly and effectively.  
+**Tools:** RAWGraphs · Flourish · Datawrapper  
 👉 Live demo: https://nietosantiago.github.io/infovis/  
 👉 Repository: https://github.com/nietosantiago/infovis
 
 🔹 **Data Warehouse – Stock Management (Excelcom)** ⭐  
-Design of a dimensional Data Warehouse for inventory, sales, and purchases analysis.  
+Design of a dimensional Data Warehouse for inventory, sales, and purchases analysis to improve stock planning and reduce immobilized capital.  
 👉 Repository: https://github.com/nietosantiago/Data-Warehousing-OLAP
+
+🔹 **IA & Machine Learning Projects** ⭐  
+Applied projects covering **EDA, regression, supervised learning, and unsupervised learning**, with code, results, and visual explanations published via GitHub Pages.  
+👉 Live demo: https://nietosantiago.github.io/IA-ML/  
+👉 Repository: https://github.com/nietosantiago/IA-ML
 
 ---
 
-> Full details and implementations can be found in the *Pinned Repositories* section below 🚀
-
+> Full details, code, and visual explanations can be found in the *Pinned Repositories* section below 🚀
 
 ---
 
@@ -73,4 +78,3 @@ Design of a dimensional Data Warehouse for inventory, sales, and purchases analy
 ---
 
 Thanks for stopping by! 👋
-
