@@ -6,8 +6,8 @@ Transforming data into insights to support better business decisions.
 ---
 
 ## 🚀 About Me
-I’m a data-driven professional with experience in pricing analytics, business intelligence, and dashboarding.  
-I enjoy solving real-world problems using SQL, Python, and data visualization tools to communicate insights clearly.
+I’m a data-driven professional with experience in pricing analytics, business intelligence, and data modeling.  
+I enjoy solving real-world business problems using SQL, Python, and data visualization to support decision-making.
 
 ---
 
@@ -21,6 +21,9 @@ Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
 
 **Databases:**  
 PostgreSQL | MySQL  
+
+**Data Concepts:**  
+Data Warehouse | Dimensional Modeling | ETL | KPIs | Business Metrics  
 
 ---
 
@@ -43,13 +46,29 @@ A collection of data visualizations created using different tools and techniques
 **Tools used:**  
 RAWGraphs · Flourish · Datawrapper  
 
-**Topics covered:**  
-- Energy consumption analysis  
-- Population distribution (Census data)  
-- Comparative preference analysis  
-
 👉 **Live demo:**  
 https://nietosantiago.github.io/infovis/
+
+🔹 **Data Warehouse – Stock Management (Excelcom)** ⭐  
+Design and conceptualization of a Data Warehouse to improve inventory planning and reduce immobilized capital in an IT services company.
+
+**Business problem:**  
+Overstock and inefficient inventory management leading to high storage costs and capital immobilization.
+
+**Objectives:**  
+- Reduce immobilized capital by 10% within one year  
+- Improve visibility of stock, sales, and purchases  
+- Enable analytical reporting by region, time, product category, and supplier  
+
+**Key features:**  
+- Conceptual and logical data models  
+- Fact tables for **Inventory, Sales, and Purchases**  
+- Dimensional analysis by **time, region, product, supplier, and warehouse**  
+- Product categorization by value (low / medium / high)  
+- Metrics to support demand planning and purchasing decisions  
+
+**Skills applied:**  
+SQL · Data Modeling · Dimensional Design · Business Analysis · KPI Definition  
 
 ---
 
@@ -71,4 +90,3 @@ https://nietosantiago.github.io/infovis/
 ---
 
 Thanks for stopping by! 👋
-
