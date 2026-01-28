@@ -49,6 +49,8 @@ RAWGraphs · Flourish · Datawrapper
 👉 **Live demo:**  
 https://nietosantiago.github.io/infovis/
 
+---
+
 🔹 **Data Warehouse – Stock Management (Excelcom)** ⭐  
 Design and conceptualization of a Data Warehouse to improve inventory planning and reduce immobilized capital in an IT services company.
 
@@ -59,6 +61,18 @@ Overstock and inefficient inventory management leading to high storage costs and
 - Reduce immobilized capital by 10% within one year  
 - Improve visibility of stock, sales, and purchases  
 - Enable analytical reporting by region, time, product category, and supplier  
+
+### 📊 Data Warehouse Visualization
+
+**Conceptual Model**  
+High-level representation of business entities and their relationships.
+
+![Data Warehouse Conceptual Model](https://raw.githubusercontent.com/nietosantiago/Data-Warehousing-OLAP/main/Diagrama%20conceptual-Diagrama%20Conceptual.drawio%20(1).png)
+
+**Logical Model (Star Schema)**  
+Dimensional model optimized for analytical queries and BI tools.
+
+![Data Warehouse Logical Model](https://raw.githubusercontent.com/nietosantiago/Data-Warehousing-OLAP/main/Diagrama%20conceptual-Diagrama%20L%C3%B3gico.drawio%20(1).png)
 
 **Key features:**  
 - Conceptual and logical data models  
@@ -90,3 +104,4 @@ SQL · Data Modeling · Dimensional Design · Business Analysis · KPI Definitio
 ---
 
 Thanks for stopping by! 👋
+
