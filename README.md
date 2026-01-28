@@ -29,64 +29,33 @@ Data Warehouse | Dimensional Modeling | ETL | KPIs | Business Metrics
 
 ## 📂 Featured Projects
 
-Here are a few highlights from my GitHub:
+A selection of projects showcasing my experience in data analysis, visualization, and data modeling:
 
 🔹 **Pricing & Sales Analysis**  
-Data analysis and insights to optimize pricing decisions and revenue performance.
+Exploratory analysis and business insights to support pricing and revenue decisions.  
+👉 Repository: https://github.com/nietosantiago
 
 🔹 **Power BI Dashboards**  
-Interactive dashboards to track KPIs, sales performance, and business metrics.
+Interactive dashboards focused on KPIs, sales performance, and business monitoring.  
+👉 Repository: https://github.com/nietosantiago
 
 🔹 **SQL Data Projects**  
-Database design, querying, and analysis for real-world business use cases.
+Database design, querying, and analytical use cases using SQL.  
+👉 Repository: https://github.com/nietosantiago
 
 🔹 **Information Visualization Portfolio** ⭐  
-A collection of data visualizations created using different tools and techniques to explore and communicate insights effectively.
-
-**Tools used:**  
-RAWGraphs · Flourish · Datawrapper  
-
-👉 **Live demo:**  
-https://nietosantiago.github.io/infovis/
-
----
+Data visualizations created with different tools to communicate insights clearly and effectively.  
+👉 Live demo: https://nietosantiago.github.io/infovis/  
+👉 Repository: https://github.com/nietosantiago/infovis
 
 🔹 **Data Warehouse – Stock Management (Excelcom)** ⭐  
-Design and conceptualization of a Data Warehouse to improve inventory planning and reduce immobilized capital in an IT services company.
-
-**Business problem:**  
-Overstock and inefficient inventory management leading to high storage costs and capital immobilization.
-
-**Objectives:**  
-- Reduce immobilized capital by 10% within one year  
-- Improve visibility of stock, sales, and purchases  
-- Enable analytical reporting by region, time, product category, and supplier  
-
-### 📊 Data Warehouse Visualization
-
-**Conceptual Model**  
-High-level representation of business entities and their relationships.
-
-![Data Warehouse Conceptual Model](https://raw.githubusercontent.com/nietosantiago/Data-Warehousing-OLAP/main/Diagrama%20conceptual-Diagrama%20Conceptual.drawio%20(1).png)
-
-**Logical Model (Star Schema)**  
-Dimensional model optimized for analytical queries and BI tools.
-
-![Data Warehouse Logical Model](https://raw.githubusercontent.com/nietosantiago/Data-Warehousing-OLAP/main/Diagrama%20conceptual-Diagrama%20L%C3%B3gico.drawio%20(1).png)
-
-**Key features:**  
-- Conceptual and logical data models  
-- Fact tables for **Inventory, Sales, and Purchases**  
-- Dimensional analysis by **time, region, product, supplier, and warehouse**  
-- Product categorization by value (low / medium / high)  
-- Metrics to support demand planning and purchasing decisions  
-
-**Skills applied:**  
-SQL · Data Modeling · Dimensional Design · Business Analysis · KPI Definition  
+Design of a dimensional Data Warehouse for inventory, sales, and purchases analysis.  
+👉 Repository: https://github.com/nietosantiago/Data-Warehousing-OLAP
 
 ---
 
-> You can explore these projects in the *Pinned Repositories* section below 🚀
+> Full details and implementations can be found in the *Pinned Repositories* section below 🚀
+
 
 ---
 
